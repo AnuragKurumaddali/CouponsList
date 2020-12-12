@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="brown">#92120F</color>
+    <color name="coupon_bg">#F4C3B2</color>
+    <color name="light_brown">#9C564C</color>
+    <color name="dashed_color">#BA2831</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="offer_color">#F62C0E</color>
+</resources>
