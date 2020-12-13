@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">CouponsList</string>
+
+    <string name="Rs">\u20B9</string>
+    <string name="hide_details">Hide Details</string>
+    <string name="min_deposit">Min. Deposit</string>
+    <string name="applied">Applied</string>
+    <string name="purchase_amount">Purchase Amount</string>
+    <string name="bonus_amount">Bonus Amount</string>
+    <string name="instant_cash">Instant Cash</string>
+    <string name="get">Get</string>
+    <string name="upto">upto</string>
+    <string name="valid_till">Valid till</string>
+    <string name="for_every">For every</string>
+    <string name="bet">bet</string>
+    <string name="will_be_released">will be\nreleased from the bonus amount</string>
+    <string name="bonus_expiry">Bonus expiry</string>
+    <string name="from_the_issue">from the issue</string>
+    <string name="days">days</string>
+    <string name="and">&amp;</string>
 </resources>

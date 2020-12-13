@@ -10,5 +10,9 @@
     <color name="dashed_color">#BA2831</color>
     <color name="white">#ffffff</color>
     <color name="black">#000000</color>
+    <color name="line_bg">#240D04</color>
     <color name="offer_color">#F62C0E</color>
+    <color name="yellow_color">#DB9216</color>
+    <color name="green_color">#76A83A</color>
+    <color name="light_white">#E9ECDB</color>
 </resources>
